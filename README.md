@@ -67,11 +67,6 @@ export GROQ_API_KEY="your_groq_api_key_here"
 python app.py
 ```
 
-### 5. Open in browser
-http://localhost:7860
-
----
-
 ## 💬 Example Queries
 🧮 "What is 125 * 48?"
 📝 "Count words: I am learning AI and it is very interesting"
@@ -100,6 +95,9 @@ langchain
 langchain-groq
 gradio
 
+---
+### Deploy link
+https://huggingface.co/spaces/jeevitha-app/langchain-ai-agent
 ---
 
 ## 👤 Author
